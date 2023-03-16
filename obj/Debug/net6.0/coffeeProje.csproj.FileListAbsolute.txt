@@ -1,0 +1,140 @@
+D:\coffeeProje\bin\Debug\net6.0\appsettings.Development.json
+D:\coffeeProje\bin\Debug\net6.0\appsettings.json
+D:\coffeeProje\bin\Debug\net6.0\coffeeProje.staticwebassets.runtime.json
+D:\coffeeProje\bin\Debug\net6.0\coffeeProje.exe
+D:\coffeeProje\bin\Debug\net6.0\coffeeProje.deps.json
+D:\coffeeProje\bin\Debug\net6.0\coffeeProje.runtimeconfig.json
+D:\coffeeProje\bin\Debug\net6.0\coffeeProje.dll
+D:\coffeeProje\bin\Debug\net6.0\coffeeProje.pdb
+D:\coffeeProje\obj\Debug\net6.0\coffeeProje.csproj.AssemblyReference.cache
+D:\coffeeProje\obj\Debug\net6.0\coffeeProje.GeneratedMSBuildEditorConfig.editorconfig
+D:\coffeeProje\obj\Debug\net6.0\coffeeProje.AssemblyInfoInputs.cache
+D:\coffeeProje\obj\Debug\net6.0\coffeeProje.AssemblyInfo.cs
+D:\coffeeProje\obj\Debug\net6.0\coffeeProje.csproj.CoreCompileInputs.cache
+D:\coffeeProje\obj\Debug\net6.0\coffeeProje.MvcApplicationPartsAssemblyInfo.cache
+D:\coffeeProje\obj\Debug\net6.0\coffeeProje.RazorAssemblyInfo.cache
+D:\coffeeProje\obj\Debug\net6.0\coffeeProje.RazorAssemblyInfo.cs
+D:\coffeeProje\obj\Debug\net6.0\staticwebassets.build.json
+D:\coffeeProje\obj\Debug\net6.0\staticwebassets.development.json
+D:\coffeeProje\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\coffeeProje\obj\Debug\net6.0\scopedcss\bundle\coffeeProje.styles.css
+D:\coffeeProje\obj\Debug\net6.0\scopedcss\projectbundle\coffeeProje.bundle.scp.css
+D:\coffeeProje\obj\Debug\net6.0\coffeeProje.dll
+D:\coffeeProje\obj\Debug\net6.0\refint\coffeeProje.dll
+D:\coffeeProje\obj\Debug\net6.0\coffeeProje.pdb
+D:\coffeeProje\obj\Debug\net6.0\coffeeProje.genruntimeconfig.cache
+D:\coffeeProje\obj\Debug\net6.0\ref\coffeeProje.dll
+E:\okul\coffeeProje\bin\Debug\net6.0\appsettings.Development.json
+E:\okul\coffeeProje\bin\Debug\net6.0\appsettings.json
+E:\okul\coffeeProje\bin\Debug\net6.0\coffeeProje.staticwebassets.runtime.json
+E:\okul\coffeeProje\bin\Debug\net6.0\coffeeProje.exe
+E:\okul\coffeeProje\bin\Debug\net6.0\coffeeProje.deps.json
+E:\okul\coffeeProje\bin\Debug\net6.0\coffeeProje.runtimeconfig.json
+E:\okul\coffeeProje\bin\Debug\net6.0\coffeeProje.dll
+E:\okul\coffeeProje\bin\Debug\net6.0\coffeeProje.pdb
+E:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.csproj.AssemblyReference.cache
+E:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.GeneratedMSBuildEditorConfig.editorconfig
+E:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.AssemblyInfoInputs.cache
+E:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.AssemblyInfo.cs
+E:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.csproj.CoreCompileInputs.cache
+E:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.MvcApplicationPartsAssemblyInfo.cache
+E:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.RazorAssemblyInfo.cache
+E:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.RazorAssemblyInfo.cs
+E:\okul\coffeeProje\obj\Debug\net6.0\staticwebassets.build.json
+E:\okul\coffeeProje\obj\Debug\net6.0\staticwebassets.development.json
+E:\okul\coffeeProje\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\okul\coffeeProje\obj\Debug\net6.0\scopedcss\bundle\coffeeProje.styles.css
+E:\okul\coffeeProje\obj\Debug\net6.0\scopedcss\projectbundle\coffeeProje.bundle.scp.css
+E:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.dll
+E:\okul\coffeeProje\obj\Debug\net6.0\refint\coffeeProje.dll
+E:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.pdb
+E:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.genruntimeconfig.cache
+E:\okul\coffeeProje\obj\Debug\net6.0\ref\coffeeProje.dll
+G:\okul\coffeeProje\bin\Debug\net6.0\appsettings.Development.json
+G:\okul\coffeeProje\bin\Debug\net6.0\appsettings.json
+G:\okul\coffeeProje\bin\Debug\net6.0\coffeeProje.staticwebassets.runtime.json
+G:\okul\coffeeProje\bin\Debug\net6.0\coffeeProje.exe
+G:\okul\coffeeProje\bin\Debug\net6.0\coffeeProje.deps.json
+G:\okul\coffeeProje\bin\Debug\net6.0\coffeeProje.runtimeconfig.json
+G:\okul\coffeeProje\bin\Debug\net6.0\coffeeProje.dll
+G:\okul\coffeeProje\bin\Debug\net6.0\coffeeProje.pdb
+G:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.csproj.AssemblyReference.cache
+G:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.GeneratedMSBuildEditorConfig.editorconfig
+G:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.AssemblyInfoInputs.cache
+G:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.AssemblyInfo.cs
+G:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.csproj.CoreCompileInputs.cache
+G:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.MvcApplicationPartsAssemblyInfo.cache
+G:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.RazorAssemblyInfo.cache
+G:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.RazorAssemblyInfo.cs
+G:\okul\coffeeProje\obj\Debug\net6.0\staticwebassets.build.json
+G:\okul\coffeeProje\obj\Debug\net6.0\staticwebassets.development.json
+G:\okul\coffeeProje\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\okul\coffeeProje\obj\Debug\net6.0\scopedcss\bundle\coffeeProje.styles.css
+G:\okul\coffeeProje\obj\Debug\net6.0\scopedcss\projectbundle\coffeeProje.bundle.scp.css
+G:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.dll
+G:\okul\coffeeProje\obj\Debug\net6.0\refint\coffeeProje.dll
+G:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.pdb
+G:\okul\coffeeProje\obj\Debug\net6.0\coffeeProje.genruntimeconfig.cache
+G:\okul\coffeeProje\obj\Debug\net6.0\ref\coffeeProje.dll
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\bin\Debug\net6.0\coffeeProje.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\bin\Debug\net6.0\coffeeProje.exe
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\bin\Debug\net6.0\coffeeProje.deps.json
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\bin\Debug\net6.0\coffeeProje.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\bin\Debug\net6.0\coffeeProje.dll
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\bin\Debug\net6.0\coffeeProje.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\coffeeProje.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\coffeeProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\coffeeProje.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\coffeeProje.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\coffeeProje.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\coffeeProje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\coffeeProje.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\coffeeProje.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\staticwebassets\msbuild.coffeeProje.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\staticwebassets\msbuild.build.coffeeProje.props
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.coffeeProje.props
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.coffeeProje.props
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\scopedcss\bundle\coffeeProje.styles.css
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\scopedcss\projectbundle\coffeeProje.bundle.scp.css
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\coffeeProje.dll
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\refint\coffeeProje.dll
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\coffeeProje.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\coffeeProje.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Masaüstü\coffeeProje\obj\Debug\net6.0\ref\coffeeProje.dll
+C:\Dev\Asp.NET Core\Coffee1\bin\Debug\net6.0\appsettings.Development.json
+C:\Dev\Asp.NET Core\Coffee1\bin\Debug\net6.0\appsettings.json
+C:\Dev\Asp.NET Core\Coffee1\bin\Debug\net6.0\coffeeProje.staticwebassets.runtime.json
+C:\Dev\Asp.NET Core\Coffee1\bin\Debug\net6.0\coffeeProje.exe
+C:\Dev\Asp.NET Core\Coffee1\bin\Debug\net6.0\coffeeProje.deps.json
+C:\Dev\Asp.NET Core\Coffee1\bin\Debug\net6.0\coffeeProje.runtimeconfig.json
+C:\Dev\Asp.NET Core\Coffee1\bin\Debug\net6.0\coffeeProje.dll
+C:\Dev\Asp.NET Core\Coffee1\bin\Debug\net6.0\coffeeProje.pdb
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\coffeeProje.csproj.AssemblyReference.cache
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\coffeeProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\coffeeProje.AssemblyInfoInputs.cache
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\coffeeProje.AssemblyInfo.cs
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\coffeeProje.csproj.CoreCompileInputs.cache
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\coffeeProje.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\coffeeProje.RazorAssemblyInfo.cache
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\coffeeProje.RazorAssemblyInfo.cs
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\staticwebassets\msbuild.coffeeProje.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\staticwebassets\msbuild.build.coffeeProje.props
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.coffeeProje.props
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.coffeeProje.props
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\scopedcss\bundle\coffeeProje.styles.css
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\scopedcss\projectbundle\coffeeProje.bundle.scp.css
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\coffeeProje.dll
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\refint\coffeeProje.dll
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\coffeeProje.pdb
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\coffeeProje.genruntimeconfig.cache
+C:\Dev\Asp.NET Core\Coffee1\obj\Debug\net6.0\ref\coffeeProje.dll

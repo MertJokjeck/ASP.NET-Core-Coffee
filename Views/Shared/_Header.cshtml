@@ -1,0 +1,33 @@
+@{
+    var actionName = ViewContext.RouteData.Values["Action"]!.ToString();
+}
+	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+	    <div class="container">
+	      <a class="navbar-brand" href="/">Coffee<small>Blend</small></a>
+	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav ml-auto">
+	          <li class='@(actionName=="Index"?"active":"")'><a href="/" class="nav-link">HOME</a></li>
+	          <li class='@(actionName=="Menu"?"active":"")'><a href="/Menu" class="nav-link">MENU</a></li>
+	          <li class='@(actionName=="Services"?"active":"")'><a href="/Services" class="nav-link">SERVICES</a></li>
+	          <li class='@(actionName=="Blog"?"active":"")'><a href="/Blog" class="nav-link">BLOG</a></li>
+	          <li class='@(actionName=="About"?"active":"")'><a href="/About" class="nav-link">ABOUT</a></li>
+	          <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="/Shop" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Shop</a>
+              <div class="dropdown-menu" aria-labelledby="dropdown04">
+            <div>	<a class='@(actionName=="Shop"?"active":"")' href="/Shop">Shop</a></div>  
+         <div> <a class='@(actionName=="ProductDetail"?"active":"")' href="/ProductDetail">Single Product</a></div>      
+           <div> <a class='@(actionName=="Cart"?"active":"")' href="/Cart">Cart</a></div>    
+     <div> <a class='@(actionName=="Checkout"?"active":"")' href="/Checkout">Checkout</a></div>          
+              </div>
+            </li>
+	          <li class='@(actionName=="Contact"?"active":"")'><a href="/Contact" class="nav-link">CONTACT</a></li>
+	          <li class="nav-item cart"><a href="/Cart" class="nav-link"><span class="icon icon-shopping_cart"></span><span class="bag d-flex justify-content-center align-items-center"><small>1</small></span></a></li>
+	        </ul>
+	      </div>
+		  </div>
+	  </nav>
+
+	  
