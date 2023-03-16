@@ -1,6 +1,11 @@
-﻿@{
-    await Html.RenderPartialAsync("_Banner");
-}
+﻿ @{
+    ViewData["Title"]="Home";
+  }
+
+    @{
+		await Html.RenderPartialAsync("_Banner");
+	}
+
    <section class="ftco-intro">
     	<div class="container-wrap">
     		<div class="wrap d-md-flex align-items-xl-end">
