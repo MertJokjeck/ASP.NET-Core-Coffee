@@ -12,7 +12,7 @@
 	          <li class='@(actionName=="Index"?"active":"")'><a href="/" class="nav-link">HOME</a></li>
 	          <li class='@(actionName=="Menu"?"active":"")'><a href="/Menu" class="nav-link">MENU</a></li>
 	          <li class='@(actionName=="Services"?"active":"")'><a href="/Services" class="nav-link">SERVICES</a></li>
-	          <li class='@(actionName=="Blog"?"active":"")'><a href="/Blog" class="nav-link">BLOG</a></li>
+	          <li class='@(actionName=="Blog" ||actionName=="BlogDetail"? "active":" ")'><a href="/Blog" class="nav-link">BLOG</a></li>
 	          <li class='@(actionName=="About"?"active":"")'><a href="/About" class="nav-link">ABOUT</a></li>
 	          <li class='nav-item dropdown @(actionName=="Shop"|| actionName=="ProductDetail"|| actionName=="Cart"|| actionName=="Checkout" ? "active":" ")' >
               <a class="nav-link dropdown-toggle" href="/Shop" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Shop</a>

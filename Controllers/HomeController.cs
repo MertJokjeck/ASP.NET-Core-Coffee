@@ -30,6 +30,11 @@ public class HomeController : Controller
         return View();
     }
 
+[Route("/blog/{title}/{id}")]
+    public IActionResult BlogDetail(string title, int id)
+    {
+        return View();
+    }
     [Route("/cart")]
     public IActionResult Cart()
     {
